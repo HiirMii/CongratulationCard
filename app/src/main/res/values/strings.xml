@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CongratulationCard</string>
+    <string name="description">The photo of a very happy person.</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you">You are</string>
+    <string name="the_one">1</string>
+    <string name="of">of</string>
+    <string name="the_best">1025</string>
+</resources>
